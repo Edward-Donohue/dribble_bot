@@ -7,4 +7,4 @@
 #And follow their instructions, then run the "run.bat" file when Rocket League is open on the main menu
 
 #Here is an example of the bot dribbling
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<video src="https://youtu.be/3pKObZwQ5xU" width="320" height="200" controls preload></video>
