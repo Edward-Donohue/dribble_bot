@@ -7,4 +7,4 @@
 #And follow their instructions, then run the "run.bat" file when Rocket League is open on the main menu
 
 #Here is an example of the bot dribbling
-[![Dribble Bot](https://imgur.com/a/0E6BLlA](https://youtu.be/3pKObZwQ5xU "Dribble Bot")
+[![Dribble Bot](https://imgur.com/a/0E6BLlA)](https://youtu.be/3pKObZwQ5xU "Dribble Bot")
